@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444933577416",
+    "project_id": "evinix-5ffb4",
+    "storage_bucket": "evinix-5ffb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444933577416:android:1093ad4e301e9d906523fd",
+        "android_client_info": {
+          "package_name": "com.arbaz.evinix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444933577416-qajcevm1auhfafnjl690ni0la9d362ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhPb7wQKH2FADAsaaDE01FnD4ib1koIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444933577416-qajcevm1auhfafnjl690ni0la9d362ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
